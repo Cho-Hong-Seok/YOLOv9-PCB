@@ -19,3 +19,7 @@
 - 전자기기 제조: PCB 품질 검사 및 불량 탐지
 - 스마트팩토리: 제조 과정 모니터링 및 자동화 품질 관리
 - 산업 현장: 실시간 결함 탐지를 통한 생산 효율성 향상
+
+#### ✔︎ 결과  
+<img src="https://github.com/user-attachments/assets/88c5a9be-9368-4326-8332-4cf6376cccb3" width="500" height="500">
+
