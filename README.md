@@ -21,5 +21,13 @@
 - 산업 현장: 실시간 결함 탐지를 통한 생산 효율성 향상
 
 #### ✔︎ 결과  
+- Instances
+<img src="https://github.com/user-attachments/assets/508ef70c-e699-4908-803a-c69598d8f0f2" width="400" height="400">
+
+- Train result  
+<img src="https://github.com/user-attachments/assets/bba691d6-1d4a-4edb-92a5-b0549229ed3e" width="700" height="350">
+
+- Inference image
 <img src="https://github.com/user-attachments/assets/88c5a9be-9368-4326-8332-4cf6376cccb3" width="500" height="500">
+
 
